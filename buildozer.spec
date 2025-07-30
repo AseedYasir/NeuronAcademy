@@ -12,6 +12,8 @@ android.permissions = INTERNET
 android.api = 33
 android.minapi = 21
 android.ndk = 25b
-android.arch = armeabi-v7a
-android.gradle_dependencies = com.android.support:appcompat-v7:28.0.0
+android.archs = armeabi-v7a
+android.gradle_dependencies = com.android.tools.build:gradle:4.0.1
+android.sdk = 33
+android.build_tools = 33.0.0
       
